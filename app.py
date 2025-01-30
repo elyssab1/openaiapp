@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://www.google.com/imgres?imgurl=https://cdn.mos.cms.futurecdn.net/gon65SMMrCEbYAzuZ7opPD-1200-80.jpg&tbnid=zDPr-99Fm8hiRM&vet=1&imgrefurl=https://www.space.com/the-terminator-franchise-should-take-a-break-from-the-big-screen-in-order-to-evolve&docid=JmvSpBYj42oAhM&w=1200&h=675&source=sh/x/im/m1/1&kgs=44882f83677c7503", caption="AI-Powered Streamlit App")
+st.image("https://www.google.com/imgres?imgurl=https://www.fau.edu/admissions/images/boca-aerial.jpg&tbnid=xETagKsjXoLqZM&vet=1&imgrefurl=https://www.fau.edu/admissions/why-fau/south-florida/&docid=KJ32baZZIOBZSM&w=1920&h=655&source=sh/x/im/m1/1&kgs=1357db4a91811844", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
