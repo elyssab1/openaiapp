@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzy9nt22kuxxmWHCodn3bMQLov-XljafbGB6nzCXQeDjo37clQ", caption="is it working?")
+st.image("https://www.google.com/imgres?imgurl=https://cdn.mos.cms.futurecdn.net/gon65SMMrCEbYAzuZ7opPD-1200-80.jpg&tbnid=zDPr-99Fm8hiRM&vet=1&imgrefurl=https://www.space.com/the-terminator-franchise-should-take-a-break-from-the-big-screen-in-order-to-evolve&docid=JmvSpBYj42oAhM&w=1200&h=675&source=sh/x/im/m1/1&kgs=44882f83677c7503", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
