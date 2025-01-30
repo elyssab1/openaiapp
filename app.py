@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://images.app.goo.gl/cwgx8G5Hrprmu6pX8", caption="AI-Powered Streamlit App")
+st.image("https://images.app.goo.gl/6pMcJgB3t2H9agvX9", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
