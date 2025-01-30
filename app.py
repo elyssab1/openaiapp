@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://en.wikipedia.org/wiki/Terminator_%28character%29#/media/File:Terminator-2-judgement-day.jpg", caption="AI-Powered Streamlit App")
+st.image("https://images.app.goo.gl/FvEqdTCe6KnEyr7FA", caption="is it working?")
 import requests
 import json
 import base64
