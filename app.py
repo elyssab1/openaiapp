@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://www.google.com/imgres?imgurl=https://www.fau.edu/admissions/images/boca-aerial.jpg&tbnid=xETagKsjXoLqZM&vet=1&imgrefurl=https://www.fau.edu/admissions/why-fau/south-florida/&docid=KJ32baZZIOBZSM&w=1920&h=655&source=sh/x/im/m1/1&kgs=1357db4a91811844", caption="AI-Powered Streamlit App")
+st.image("https://images.app.goo.gl/cwgx8G5Hrprmu6pX8", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
